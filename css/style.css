@@ -1,0 +1,56 @@
+*{
+    font-family: 'Poppins', sans-serif;
+}
+#inicio{
+    text-align: center;
+    font-size: 32px;
+}
+
+.bt-abrir-conta{
+    border-radius: 20px;
+    padding: 0px 20px 0px 20px;
+}
+.bandeiras{
+    display: inline-block;
+}
+
+#banco-digital{
+    font-family: 'Pppins', sans-serif;
+    text-align: justify;
+    font-size: 18px;
+    background-color: #f0f0f0;
+}
+
+#fundo{
+    position:relative;
+}
+#fora{
+    font-size: 40px;
+    color: rgb(0, 0, 56);
+    position: absolute;
+    left: 15%;
+    top:35%;
+}
+
+#lista{
+    font-size: 28px;
+    text-align: left;
+}
+
+.marina-young{
+    background-color:rgb(0, 0, 56);
+    color: rgb(240, 239, 239);
+    padding: 10px;
+    font-size: 22px;
+    border-radius: 25px;
+    text-align:center;
+}
+footer{
+    background-color: rgb(0, 0, 56);
+    color: white;
+}
+@media(max-width:768px){
+    body{
+        text-align: justify;
+    }
+}
