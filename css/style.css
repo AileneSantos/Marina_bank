@@ -53,8 +53,13 @@ footer{
     #fontresponsiva{
         text-align: justify;
         font-size: 16px;
-        margin: 0;
     }
+}
+@media(min-width:768px){
+    .responsivo{
+        max-width:100%
+    }
+    
 }
 .responsivo{
     max-width:100%
